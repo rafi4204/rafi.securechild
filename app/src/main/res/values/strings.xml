@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecureChild</string>
+    <string name="title_activity_gps_tracking">Map</string>
+    <string name="title_activity_child_location">Child_location</string>
+    <string name="title_activity_test_loc">Map</string>
+    <string name="title_activity_sms_get">Sms_get</string>
+</resources>
